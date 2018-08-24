@@ -20,7 +20,7 @@ Before running the code, you will need to download several files from the HUD we
 
 The code produces a .csv file with the following columns.
 
-- 'zipcode':    5-digit zip code number
+- `zipcode`:    5-digit zip code number
 - 'FIPS':       5-digit FIPS code (2 digit state code + 3 digit county code)
 - 'CountyName': County names from the Census
 - 'cbsacode':   CBSA or Metro Division Codes (see notes below)
